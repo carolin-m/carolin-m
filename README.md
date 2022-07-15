@@ -17,4 +17,4 @@ KiMoPack is a powerful, python-based, open-source analysis tool that provides a 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolin-m%C3%BCller-b2581723b)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Carolin-Mueller-6)
 [![ORCID](https://img.shields.io/static/v1?style=for-the-badge&message=ORCID&color=222222&logo=ORCID&logoColor=A6CE39&label=)]( https://orcid.org/0000-0002-5968-2216 )
-[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://carolin-m.github.io/)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://carolin-m.github.io/)
