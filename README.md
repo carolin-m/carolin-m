@@ -8,7 +8,7 @@
 
 ## KiMoPack
 
-KiMoPack is a powerful, python-based, open-source analysis tool that provides a powerful but easy-to-use interface for a well-documented, flexible, and reproducible analysis (kinetic modeling) of time-resolved spectral data (e.g., transient absorption data).
+KiMoPack is a python-based, open-source analysis tool that provides a powerful but easy-to-use interface for a well-documented, flexible, and reproducible analysis (kinetic modeling) of time-resolved spectral data (e.g., transient absorption data).
 
 [Click here for further information on KiMoPack](https://pubs.acs.org/doi/10.1021/acs.jpca.2c00907)
 
